@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer + React + Data Science
 ---------------------------------------
 
-*   🌍  I'm based in Bharatpur,Nepal
+*   🌍  I'm based in Atlanta,Georgia,USA
 *   ✉️  You can contact me at [kanchansapkota27@gmail.com](mailto:kanchansapkota27@gmail.com)
 *   🧠  I'm learning Django
 *   🤝  I'm open to collaborating on projects like Web Scraping , Computer Vision ,Web or API Development.

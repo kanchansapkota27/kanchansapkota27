@@ -6,8 +6,8 @@ Python Developer + React + Data Science
 
 *   🌍  I'm based in Atlanta,Georgia,USA
 *   ✉️  You can contact me at [kanchansapkota27@gmail.com](mailto:kanchansapkota27@gmail.com)
-*   🧠  I'm learning Django
-*   🤝  I'm open to collaborating on projects like Web Scraping , Computer Vision ,Web or API Development.
+*   🧠  I'm continioudly learning
+*   🤝  I'm open to collaborating on projects like Web Scraping , Computer Vision ,Web or API Development, Data Emgineering.
 *   ⚡  I am an open source fanboy
 
 ### Skills 
